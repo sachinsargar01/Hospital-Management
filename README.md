@@ -1,4 +1,6 @@
 # Hospital Management System
+![ChatGPT Image Apr 25, 2025, 12_34_33 AM](https://github.com/user-attachments/assets/2d63008e-8568-49a3-ba03-27278d5aa011)
+
 
 ## Overview
 The **Hospital Management System** is a Java-based application designed to manage various aspects of a healthcare facility, including:
